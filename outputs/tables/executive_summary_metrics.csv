@@ -1,0 +1,14 @@
+metric,value
+rh_total_records,892168.0
+rh_unique_municipalities_raw,401.0
+rh_matched_records,670163.0
+rh_unmatched_records,222005.0
+rh_matched_share_pct,75.11623371382969
+overall_average_remuneration_brl,3035.0441640569134
+overall_median_remuneration_brl,0.0
+overall_active_share_pct,18.559621057917344
+overall_female_share_pct,66.33470377776382
+cities_with_census_match,399.0
+census_total_municipalities,399.0
+institutions_with_records,130.0
+employment_status_categories,6.0

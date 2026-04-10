@@ -1,0 +1,402 @@
+city_original,city_key,city_official,city_match_status,records
+Curitiba,CURITIBA,Curitiba,matched,123113
+Londrina,LONDRINA,Londrina,matched,35948
+Cascavel,CASCAVEL,Cascavel,matched,24590
+Maringá,MARINGA,Maringá,matched,24299
+Ponta Grossa,PONTA GROSSA,Ponta Grossa,matched,20520
+Guarapuava,GUARAPUAVA,Guarapuava,matched,12780
+Foz do Iguaçu,FOZ DO IGUACU,Foz do Iguaçu,matched,12489
+São José dos Pinhais,SAO JOSE DOS PINHAIS,São José dos Pinhais,matched,10595
+Paranaguá,PARANAGUA,Paranaguá,matched,10031
+Toledo,TOLEDO,Toledo,matched,7771
+Apucarana,APUCARANA,Apucarana,matched,7180
+Paranavaí,PARANAVAI,Paranavaí,matched,7133
+Piraquara,PIRAQUARA,Piraquara,matched,7116
+Colombo,COLOMBO,Colombo,matched,6682
+Francisco Beltrão,FRANCISCO BELTRAO,Francisco Beltrão,matched,6541
+Umuarama,UMUARAMA,Umuarama,matched,6002
+Fazenda Rio Grande,FAZENDA RIO GRANDE,Fazenda Rio Grande,matched,5960
+Jacarezinho,JACAREZINHO,Jacarezinho,matched,5941
+Campo Mourão,CAMPO MOURAO,Campo Mourão,matched,5673
+Irati,IRATI,Irati,matched,4988
+Araucária,ARAUCARIA,Araucária,matched,4608
+Campo Largo,CAMPO LARGO,Campo Largo,matched,4603
+Pinhais,PINHAIS,Pinhais,matched,4568
+Arapongas,ARAPONGAS,Arapongas,matched,4563
+Pato Branco,PATO BRANCO,Pato Branco,matched,4256
+União da Vitória,UNIAO DA VITORIA,União da Vitória,matched,4045
+Castro,CASTRO,Castro,matched,3983
+Telêmaco Borba,TELEMACO BORBA,Telêmaco Borba,matched,3801
+Cambé,CAMBE,Cambé,matched,3663
+Sarandi,SARANDI,Sarandi,matched,3649
+Cianorte,CIANORTE,Cianorte,matched,3504
+Ivaiporã,IVAIPORA,Ivaiporã,matched,3122
+Cornélio Procópio,CORNELIO PROCOPIO,Cornélio Procópio,matched,3114
+Almirante Tamandaré,ALMIRANTE TAMANDARE,Almirante Tamandaré,matched,3044
+Lapa,LAPA,Lapa,matched,2909
+Palmas,PALMAS,Palmas,matched,2908
+Marechal Cândido Rondon,MARECHAL CANDIDO RONDON,Marechal Cândido Rondon,matched,2815
+Laranjeiras do Sul,LARANJEIRAS DO SUL,Laranjeiras do Sul,matched,2761
+Pitanga,PITANGA,Pitanga,matched,2723
+Rolândia,ROLANDIA,Rolândia,matched,2568
+Ibaiti,IBAITI,Ibaiti,matched,2521
+Dois Vizinhos,DOIS VIZINHOS,Dois Vizinhos,matched,2496
+Prudentópolis,PRUDENTOPOLIS,Prudentópolis,matched,2482
+Ibiporã,IBIPORA,Ibiporã,matched,2405
+São Mateus do Sul,SAO MATEUS DO SUL,São Mateus do Sul,matched,2403
+Assis Chateaubriand,ASSIS CHATEAUBRIAND,Assis Chateaubriand,matched,2342
+Nova Laranjeiras,NOVA LARANJEIRAS,Nova Laranjeiras,matched,2322
+Bandeirantes,BANDEIRANTES,Bandeirantes,matched,2319
+Ortigueira,ORTIGUEIRA,Ortigueira,matched,2306
+Guaíra,GUAIRA,Guaíra,matched,2289
+Santo Antônio da Platina,SANTO ANTONIO DA PLATINA,Santo Antônio da Platina,matched,2265
+Medianeira,MEDIANEIRA,Medianeira,matched,2252
+Pinhão,PINHAO,Pinhão,matched,2234
+Palmeira,PALMEIRA,Palmeira,matched,2224
+Quedas do Iguaçu,QUEDAS DO IGUACU,Quedas do Iguaçu,matched,2179
+Arapoti,ARAPOTI,Arapoti,matched,2178
+Manoel Ribas,MANOEL RIBAS,Manoel Ribas,matched,2045
+Campina Grande do Sul,CAMPINA GRANDE DO SUL,Campina Grande do Sul,matched,2024
+São Miguel do Iguaçu,SAO MIGUEL DO IGUACU,São Miguel do Iguaçu,matched,1959
+Palotina,PALOTINA,Palotina,matched,1933
+Jaguariaíva,JAGUARIAIVA,Jaguariaíva,matched,1843
+Goioerê,GOIOERE,Goioerê,matched,1810
+Guaratuba,GUARATUBA,Guaratuba,matched,1758
+Paiçandu,PAICANDU,Paiçandu,matched,1746
+Cruzeiro do Oeste,CRUZEIRO DO OESTE,Cruzeiro do Oeste,matched,1696
+Chopinzinho,CHOPINZINHO,Chopinzinho,matched,1695
+Clevelândia,CLEVELANDIA,Clevelândia,matched,1686
+Rio Bonito do Iguaçu,RIO BONITO DO IGUACU,Rio Bonito do Iguaçu,matched,1654
+São Jerônimo da Serra,SAO JERONIMO DA SERRA,São Jerônimo da Serra,matched,1652
+Capanema,CAPANEMA,Capanema,matched,1649
+Cambará,CAMBARA,Cambará,matched,1637
+Reserva,RESERVA,Reserva,matched,1600
+Marialva,MARIALVA,Marialva,matched,1584
+Rio Branco do Sul,RIO BRANCO DO SUL,Rio Branco do Sul,matched,1530
+Rio Negro,RIO NEGRO,Rio Negro,matched,1527
+Santo Antônio do Sudoeste,SANTO ANTONIO DO SUDOESTE,Santo Antônio do Sudoeste,matched,1464
+Antonina,ANTONINA,Antonina,matched,1453
+Mangueirinha,MANGUEIRINHA,Mangueirinha,matched,1446
+Wenceslau Braz,WENCESLAU BRAZ,Wenceslau Braz,matched,1443
+Cândido de Abreu,CANDIDO DE ABREU,Cândido de Abreu,matched,1437
+Assaí,ASSAI,Assaí,matched,1409
+Guaraqueçaba,GUARAQUECABA,Guaraqueçaba,matched,1388
+Matinhos,MATINHOS,Matinhos,matched,1354
+Sengés,SENGES,Sengés,matched,1334
+Mandaguari,MANDAGUARI,Mandaguari,matched,1329
+Turvo,TURVO,Turvo,matched,1323
+Imbituva,IMBITUVA,Imbituva,matched,1303
+Nova Esperança,NOVA ESPERANCA,Nova Esperança,matched,1286
+Piraí do Sul,PIRAI DO SUL,Piraí do Sul,matched,1271
+Pontal do Paraná,PONTAL DO PARANA,Pontal do Paraná,matched,1257
+Carambeí,CARAMBEI,Carambeí,matched,1256
+Tibagi,TIBAGI,Tibagi,matched,1253
+Colorado,COLORADO,Colorado,matched,1230
+Terra Roxa,TERRA ROXA,Terra Roxa,matched,1226
+Jandaia do Sul,JANDAIA DO SUL,Jandaia do Sul,matched,1220
+Porecatu,PORECATU,Porecatu,matched,1219
+Santa Helena,SANTA HELENA,Santa Helena,matched,1192
+Ubiratã,UBIRATA,Ubiratã,matched,1189
+Corbélia,CORBELIA,Corbélia,matched,1188
+Loanda,LOANDA,Loanda,matched,1184
+Santa Terezinha de Itaipu,SANTA TEREZINHA DE ITAIPU,Santa Terezinha de Itaipu,matched,1171
+Mandirituba,MANDIRITUBA,Mandirituba,matched,1160
+Mandaguaçu,MANDAGUACU,Mandaguaçu,matched,1141
+Astorga,ASTORGA,Astorga,matched,1127
+Siqueira Campos,SIQUEIRA CAMPOS,Siqueira Campos,matched,1126
+Altônia,ALTONIA,Altônia,matched,1125
+Ampére,AMPERE,Ampére,matched,1113
+Coronel Vivida,CORONEL VIVIDA,Coronel Vivida,matched,1086
+Matelândia,MATELANDIA,Matelândia,matched,1080
+Candói,CANDOI,Candói,matched,1064
+Bituruna,BITURUNA,Bituruna,matched,1061
+Jardim Alegre,JARDIM ALEGRE,Jardim Alegre,matched,1060
+Guaraniaçu,GUARANIACU,Guaraniaçu,matched,1052
+Itaperuçu,ITAPERUCU,Itaperuçu,matched,1048
+Andirá,ANDIRA,Andirá,matched,1032
+Realeza,REALEZA,Realeza,matched,1024
+Campina da Lagoa,CAMPINA DA LAGOA,Campina da Lagoa,matched,1023
+Palmital,PALMITAL,Palmital,matched,1008
+Faxinal,FAXINAL,Faxinal,matched,998
+Capitão Leônidas Marques,CAPITAO LEONIDAS MARQUES,Capitão Leônidas Marques,matched,988
+Tamarana,TAMARANA,Tamarana,matched,973
+Cafelândia,CAFELANDIA,Cafelândia,matched,955
+Três Barras do Paraná,TRES BARRAS DO PARANA,Três Barras do Paraná,matched,954
+Cantagalo,CANTAGALO,Cantagalo,matched,943
+Santa Izabel do Oeste,SANTA IZABEL DO OESTE,Santa Izabel do Oeste,matched,943
+Ipiranga,IPIRANGA,Ipiranga,matched,941
+Santa Maria do Oeste,SANTA MARIA DO OESTE,Santa Maria do Oeste,matched,930
+Iporã,IPORA,Iporã,matched,926
+Campo Magro,CAMPO MAGRO,Campo Magro,matched,896
+Inácio Martins,INACIO MARTINS,Inácio Martins,matched,892
+Planalto,PLANALTO,Planalto,matched,879
+São João do Triunfo,SAO JOAO DO TRIUNFO,São João do Triunfo,matched,862
+Cruz Machado,CRUZ MACHADO,Cruz Machado,matched,861
+Ivaí,IVAI,Ivaí,matched,859
+Quatro Barras,QUATRO BARRAS,Quatro Barras,matched,857
+General Carneiro,GENERAL CARNEIRO,General Carneiro,matched,851
+Querência do Norte,QUERENCIA DO NORTE,Querência do Norte,matched,848
+Iretama,IRETAMA,Iretama,matched,846
+Santa Mariana,SANTA MARIANA,Santa Mariana,matched,838
+Engenheiro Beltrão,ENGENHEIRO BELTRAO,Engenheiro Beltrão,matched,832
+Morretes,MORRETES,Morretes,matched,824
+Rebouças,REBOUCAS,Rebouças,matched,821
+São João do Ivaí,SAO JOAO DO IVAI,São João do Ivaí,matched,821
+Ribeirão Claro,RIBEIRAO CLARO,Ribeirão Claro,matched,820
+Contenda,CONTENDA,Contenda,matched,816
+Rio Azul,RIO AZUL,Rio Azul,matched,815
+Alto Piquiri,ALTO PIQUIRI,Alto Piquiri,matched,814
+Curiúva,CURIUVA,Curiúva,matched,809
+Sertanópolis,SERTANOPOLIS,Sertanópolis,matched,799
+Roncador,RONCADOR,Roncador,matched,798
+Quitandinha,QUITANDINHA,Quitandinha,matched,796
+Santa Tereza do Oeste,SANTA TEREZA DO OESTE,Santa Tereza do Oeste,matched,790
+Salto do Lontra,SALTO DO LONTRA,Salto do Lontra,matched,773
+Terra Rica,TERRA RICA,Terra Rica,matched,771
+Barracão,BARRACAO,Barracão,matched,768
+Nova Londrina,NOVA LONDRINA,Nova Londrina,matched,768
+Mamborê,MAMBORE,Mamborê,matched,759
+Coronel Domingos Soares,CORONEL DOMINGOS SOARES,Coronel Domingos Soares,matched,757
+Boa Vista da Aparecida,BOA VISTA DA APARECIDA,Boa Vista da Aparecida,matched,751
+Barbosa Ferraz,BARBOSA FERRAZ,Barbosa Ferraz,matched,750
+Imbaú,IMBAU,Imbaú,matched,746
+Missal,MISSAL,Missal,matched,733
+São Jorge d'Oeste,SAO JORGE D'OESTE,São Jorge d'Oeste,matched,733
+Nova Aurora,NOVA AURORA,Nova Aurora,matched,732
+Tapejara,TAPEJARA,Tapejara,matched,730
+Jaguapitã,JAGUAPITA,Jaguapitã,matched,728
+Bela Vista do Paraíso,BELA VISTA DO PARAISO,Bela Vista do Paraíso,matched,717
+Rosário do Ivaí,ROSARIO DO IVAI,Rosário do Ivaí,matched,713
+Catanduvas,CATANDUVAS,Catanduvas,matched,702
+Peabiru,PEABIRU,Peabiru,matched,701
+Carlópolis,CARLOPOLIS,Carlópolis,matched,696
+Marmeleiro,MARMELEIRO,Marmeleiro,matched,695
+Joaquim Távora,JOAQUIM TAVORA,Joaquim Távora,matched,694
+Vera Cruz do Oeste,VERA CRUZ DO OESTE,Vera Cruz do Oeste,matched,681
+Diamante do Norte,DIAMANTE DO NORTE,Diamante do Norte,matched,680
+Araruna,ARARUNA,Araruna,matched,673
+Santa Isabel do Ivaí,SANTA ISABEL DO IVAI,Santa Isabel do Ivaí,matched,670
+Mallet,MALLET,Mallet,matched,665
+Cerro Azul,CERRO AZUL,Cerro Azul,matched,662
+Ribeirão do Pinhal,RIBEIRAO DO PINHAL,Ribeirão do Pinhal,matched,658
+Teixeira Soares,TEIXEIRA SOARES,Teixeira Soares,matched,657
+Espigão Alto do Iguaçu,ESPIGAO ALTO DO IGUACU,Espigão Alto do Iguaçu,matched,653
+Pérola,PEROLA,Pérola,matched,652
+Ivaté,IVATE,Ivaté,matched,646
+Céu Azul,CEU AZUL,Céu Azul,matched,645
+Tomazina,TOMAZINA,Tomazina,matched,645
+Jataizinho,JATAIZINHO,Jataizinho,matched,634
+Santa Cruz de Monte Castelo,SANTA CRUZ DE MONTE CASTELO,Santa Cruz de Monte Castelo,matched,633
+Tijucas do Sul,TIJUCAS DO SUL,Tijucas do Sul,matched,633
+Douradina,DOURADINA,Douradina,matched,630
+Terra Boa,TERRA BOA,Terra Boa,matched,630
+Fernandes Pinheiro,FERNANDES PINHEIRO,Fernandes Pinheiro,matched,628
+Tuneiras do Oeste,TUNEIRAS DO OESTE,Tuneiras do Oeste,matched,623
+Marilândia do Sul,MARILANDIA DO SUL,Marilândia do Sul,matched,617
+Nova Cantu,NOVA CANTU,Nova Cantu,matched,616
+Boa Ventura de São Roque,BOA VENTURA DE SAO ROQUE,Boa Ventura de São Roque,matched,608
+Paranacity,PARANACITY,Paranacity,matched,606
+Nova Tebas,NOVA TEBAS,Nova Tebas,matched,605
+Congonhinhas,CONGONHINHAS,Congonhinhas,matched,595
+São João,SAO JOAO,São João,matched,594
+Itapejara d'Oeste,ITAPEJARA D'OESTE,Itapejara d'Oeste,matched,593
+Laranjal,LARANJAL,Laranjal,matched,592
+Balsa Nova,BALSA NOVA,Balsa Nova,matched,589
+Lindoeste,LINDOESTE,Lindoeste,matched,589
+São Pedro do Ivaí,SAO PEDRO DO IVAI,São Pedro do Ivaí,matched,588
+Alto Paraná,ALTO PARANA,Alto Paraná,matched,587
+Ventania,VENTANIA,Ventania,matched,583
+Icaraíma,ICARAIMA,Icaraíma,matched,582
+Reserva do Iguaçu,RESERVA DO IGUACU,Reserva do Iguaçu,matched,579
+Diamante D'Oeste,DIAMANTE D'OESTE,Diamante D'Oeste,matched,577
+Grandes Rios,GRANDES RIOS,Grandes Rios,matched,573
+Goioxim,GOIOXIM,Goioxim,matched,569
+Sapopema,SAPOPEMA,Sapopema,matched,568
+Uraí,URAI,Uraí,matched,566
+Mauá da Serra,MAUA DA SERRA,Mauá da Serra,matched,559
+Piên,PIEN,Piên,matched,556
+Adrianópolis,ADRIANOPOLIS,Adrianópolis,matched,555
+Bocaiúva do Sul,BOCAIUVA DO SUL,Bocaiúva do Sul,matched,552
+Moreira Sales,MOREIRA SALES,Moreira Sales,matched,549
+Tupãssi,TUPASSI,Tupãssi,matched,542
+São Sebastião da Amoreira,SAO SEBASTIAO DA AMOREIRA,São Sebastião da Amoreira,matched,534
+Antônio Olinto,ANTONIO OLINTO,Antônio Olinto,matched,526
+Figueira,FIGUEIRA,Figueira,matched,523
+Juranda,JURANDA,Juranda,matched,520
+Pranchita,PRANCHITA,Pranchita,matched,518
+Nova Prata do Iguaçu,NOVA PRATA DO IGUACU,Nova Prata do Iguaçu,matched,516
+Pérola d'Oeste,PEROLA D'OESTE,Pérola d'Oeste,matched,511
+Verê,VERE,Verê,matched,509
+Sabáudia,SABAUDIA,Sabáudia,matched,503
+Abatiá,ABATIA,Abatiá,matched,496
+Tunas do Paraná,TUNAS DO PARANA,Tunas do Paraná,matched,488
+Enéas Marques,ENEAS MARQUES,Enéas Marques,matched,478
+Braganey,BRAGANEY,Braganey,matched,477
+Cidade Gaúcha,CIDADE GAUCHA,Cidade Gaúcha,matched,477
+Centenário do Sul,CENTENARIO DO SUL,Centenário do Sul,matched,469
+Bom Jesus do Sul,BOM JESUS DO SUL,Bom Jesus do Sul,matched,467
+Primeiro de Maio,PRIMEIRO DE MAIO,Primeiro de Maio,matched,467
+Guamiranga,GUAMIRANGA,Guamiranga,matched,465
+Pinhalão,PINHALAO,Pinhalão,matched,459
+Rio Branco do Ivaí,RIO BRANCO DO IVAI,Rio Branco do Ivaí,matched,457
+Formosa do Oeste,FORMOSA DO OESTE,Formosa do Oeste,matched,455
+São José da Boa Vista,SAO JOSE DA BOA VISTA,São José da Boa Vista,matched,454
+Itaipulândia,ITAIPULANDIA,Itaipulândia,matched,447
+Doutor Ulysses,DOUTOR ULYSSES,Doutor Ulysses,matched,445
+Francisco Alves,FRANCISCO ALVES,Francisco Alves,matched,442
+Floresta,FLORESTA,Floresta,matched,437
+Cambira,CAMBIRA,Cambira,matched,433
+Lidianópolis,LIDIANOPOLIS,Lidianópolis,matched,432
+Florestópolis,FLORESTOPOLIS,Florestópolis,matched,430
+Japurá,JAPURA,Japurá,matched,428
+Santana do Itararé,SANTANA DO ITARARE,Santana do Itararé,matched,424
+Sertaneja,SERTANEJA,Sertaneja,matched,424
+Saudade do Iguaçu,SAUDADE DO IGUACU,Saudade do Iguaçu,matched,423
+Jesuítas,JESUITAS,Jesuítas,matched,422
+Xambrê,XAMBRE,Xambrê,matched,422
+Flor da Serra do Sul,FLOR DA SERRA DO SUL,Flor da Serra do Sul,matched,420
+São Tomé,SAO TOME,São Tomé,matched,420
+Paraíso do Norte,PARAISO DO NORTE,Paraíso do Norte,matched,417
+Rondon,RONDON,Rondon,matched,417
+Foz do Jordão,FOZ DO JORDAO,Foz do Jordão,matched,414
+Santa Fé,SANTA FE,Santa Fé,matched,413
+Nova Esperança do Sudoeste,NOVA ESPERANCA DO SUDOESTE,Nova Esperança do Sudoeste,matched,411
+Guaraci,GUARACI,Guaraci,matched,405
+Janiópolis,JANIOPOLIS,Janiópolis,matched,404
+Tapira,TAPIRA,Tapira,matched,400
+Diamante do Sul,DIAMANTE DO SUL,Diamante do Sul,matched,396
+Borrazópolis,BORRAZOPOLIS,Borrazópolis,matched,395
+Agudos do Sul,AGUDOS DO SUL,Agudos do Sul,matched,394
+Maria Helena,MARIA HELENA,Maria Helena,matched,394
+Alvorada do Sul,ALVORADA DO SUL,Alvorada do Sul,matched,393
+Itambé,ITAMBE,Itambé,matched,393
+Santa Amélia,SANTA AMELIA,Santa Amélia,matched,391
+Califórnia,CALIFORNIA,Califórnia,matched,389
+São João do Caiuá,SAO JOAO DO CAIUA,São João do Caiuá,matched,389
+São Jorge do Patrocínio,SAO JORGE DO PATROCINIO,São Jorge do Patrocínio,matched,388
+Mato Rico,MATO RICO,Mato Rico,matched,386
+Nova Olímpia,NOVA OLIMPIA,Nova Olímpia,matched,383
+Marquinho,MARQUINHO,Marquinho,matched,381
+Cafezal do Sul,CAFEZAL DO SUL,Cafezal do Sul,matched,374
+Nova Santa Rosa,NOVA SANTA ROSA,Nova Santa Rosa,matched,374
+São Pedro do Iguaçu,SAO PEDRO DO IGUACU,São Pedro do Iguaçu,matched,374
+Inajá,INAJA,Inajá,matched,370
+Mariluz,MARILUZ,Mariluz,matched,369
+Jaboti,JABOTI,Jaboti,matched,368
+Kaloré,KALORE,Kaloré,matched,356
+Campo do Tenente,CAMPO DO TENENTE,Campo do Tenente,matched,355
+Itambaracá,ITAMBARACA,Itambaracá,matched,355
+Jussara,JUSSARA,Jussara,matched,354
+Paula Freitas,PAULA FREITAS,Paula Freitas,matched,352
+Guairaçá,GUAIRACA,Guairaçá,matched,351
+Santo Inácio,SANTO INACIO,Santo Inácio,matched,346
+Salgado Filho,SALGADO FILHO,Salgado Filho,matched,344
+Quatiguá,QUATIGUA,Quatiguá,matched,343
+Paulo Frontin,PAULO FRONTIN,Paulo Frontin,matched,342
+Godoy Moreira,GODOY MOREIRA,Godoy Moreira,matched,341
+Ibema,IBEMA,Ibema,matched,340
+Porto Amazonas,PORTO AMAZONAS,Porto Amazonas,matched,338
+Porto Barreiro,PORTO BARREIRO,Porto Barreiro,matched,337
+Vitorino,VITORINO,Vitorino,matched,337
+Bom Sucesso,BOM SUCESSO,Bom Sucesso,matched,336
+Conselheiro Mairinck,CONSELHEIRO MAIRINCK,Conselheiro Mairinck,matched,334
+Bela Vista da Caroba,BELA VISTA DA CAROBA,Bela Vista da Caroba,matched,333
+Honório Serpa,HONORIO SERPA,Honório Serpa,matched,332
+Serranópolis do Iguaçu,SERRANOPOLIS DO IGUACU,Serranópolis do Iguaçu,matched,332
+Ouro Verde do Oeste,OURO VERDE DO OESTE,Ouro Verde do Oeste,matched,330
+Leópolis,LEOPOLIS,Leópolis,matched,329
+Marumbi,MARUMBI,Marumbi,matched,329
+Fênix,FENIX,Fênix,matched,328
+Itaguajé,ITAGUAJE,Itaguajé,matched,328
+Nova Fátima,NOVA FATIMA,Nova Fátima,matched,327
+Manfrinópolis,MANFRINOPOLIS,Manfrinópolis,matched,323
+Boa Esperança,BOA ESPERANCA,Boa Esperança,matched,322
+Cruzeiro do Iguaçu,CRUZEIRO DO IGUACU,Cruzeiro do Iguaçu,matched,322
+Mariópolis,MARIOPOLIS,Mariópolis,matched,322
+São Carlos do Ivaí,SAO CARLOS DO IVAI,São Carlos do Ivaí,matched,320
+Renascença,RENASCENCA,Renascença,matched,319
+Pinhal de São Bento,PINHAL DE SAO BENTO,Pinhal de São Bento,matched,315
+Planaltina do Paraná,PLANALTINA DO PARANA,Planaltina do Paraná,matched,313
+São Pedro do Paraná,SAO PEDRO DO PARANA,São Pedro do Paraná,matched,311
+Iguaraçu,IGUARACU,Iguaraçu,matched,308
+Lunardelli,LUNARDELLI,Lunardelli,matched,308
+Arapuã,ARAPUA,Arapuã,matched,307
+Mercedes,MERCEDES,Mercedes,matched,299
+São Jorge do Ivaí,SAO JORGE DO IVAI,São Jorge do Ivaí,matched,295
+Ariranha do Ivaí,ARIRANHA DO IVAI,Ariranha do Ivaí,matched,292
+Campina do Simão,CAMPINA DO SIMAO,Campina do Simão,matched,291
+Nova Santa Bárbara,NOVA SANTA BARBARA,Nova Santa Bárbara,matched,290
+Quarto Centenário,QUARTO CENTENARIO,Quarto Centenário,matched,290
+Luiziana,LUIZIANA,Luiziana,matched,288
+Alto Paraíso,ALTO PARAISO,Alto Paraíso,matched,286
+Perobal,PEROBAL,Perobal,matched,286
+Maripá,MARIPA,Maripá,matched,283
+Santa Cecília do Pavão,SANTA CECILIA DO PAVAO,Santa Cecília do Pavão,matched,282
+Japira,JAPIRA,Japira,matched,276
+Boa Esperança do Iguaçu,BOA ESPERANCA DO IGUACU,Boa Esperança do Iguaçu,matched,274
+Novo Itacolomi,NOVO ITACOLOMI,Novo Itacolomi,matched,273
+Quinta do Sol,QUINTA DO SOL,Quinta do Sol,matched,272
+Marilena,MARILENA,Marilena,matched,271
+Lupionópolis,LUPIONOPOLIS,Lupionópolis,matched,270
+Campo Bonito,CAMPO BONITO,Campo Bonito,matched,269
+Santa Mônica,SANTA MONICA,Santa Mônica,matched,269
+Brasilândia do Sul,BRASILANDIA DO SUL,Brasilândia do Sul,matched,268
+Salto do Itararé,SALTO DO ITARARE,Salto do Itararé,matched,268
+Anahy,ANAHY,Anahy,matched,267
+Floraí,FLORAI,Floraí,matched,265
+Doutor Camargo,DOUTOR CAMARGO,Doutor Camargo,matched,264
+Nossa Senhora das Graças,NOSSA SENHORA DAS GRACAS,Nossa Senhora das Graças,matched,263
+Cafeara,CAFEARA,Cafeara,matched,257
+Santa Lúcia,SANTA LUCIA,Santa Lúcia,matched,257
+Tamboara,TAMBOARA,Tamboara,matched,255
+Ramilândia,RAMILANDIA,Ramilândia,matched,253
+Prado Ferreira,PRADO FERREIRA,Prado Ferreira,matched,252
+Lobato,LOBATO,Lobato,matched,250
+Amaporã,AMAPORA,Amaporã,matched,248
+Itaúna do Sul,ITAUNA DO SUL,Itaúna do Sul,matched,247
+Nova América da Colina,NOVA AMERICA DA COLINA,Nova América da Colina,matched,246
+Munhoz de Melo,MUNHOZ DE MELO,Munhoz de Melo,matched,233
+Rio Bom,RIO BOM,Rio Bom,matched,227
+Sulina,SULINA,Sulina,matched,227
+Indianópolis,INDIANOPOLIS,Indianópolis,matched,225
+Guapirama,GUAPIRAMA,Guapirama,matched,223
+Iracema do Oeste,IRACEMA DO OESTE,Iracema do Oeste,matched,221
+Jundiaí do Sul,JUNDIAI DO SUL,Jundiaí do Sul,matched,219
+Rancho Alegre,RANCHO ALEGRE,Rancho Alegre,matched,217
+Presidente Castelo Branco,PRESIDENTE CASTELO BRANCO,Presidente Castelo Branco,matched,216
+Santo Antônio do Caiuá,SANTO ANTONIO DO CAIUA,Santo Antônio do Caiuá,matched,215
+Altamira do Paraná,ALTAMIRA DO PARANA,Altamira do Paraná,matched,214
+Miraselva,MIRASELVA,Miraselva,matched,210
+Porto Rico,PORTO RICO,Porto Rico,matched,207
+Ivatuba,IVATUBA,Ivatuba,matched,206
+Bom Sucesso do Sul,BOM SUCESSO DO SUL,Bom Sucesso do Sul,matched,203
+Ourizona,OURIZONA,Ourizona,matched,202
+Cruzmaltina,CRUZMALTINA,Cruzmaltina,matched,195
+Pato Bragado,PATO BRAGADO,Pato Bragado,matched,195
+Quatro Pontes,QUATRO PONTES,Quatro Pontes,matched,190
+Atalaia,ATALAIA,Atalaia,matched,189
+Virmond,VIRMOND,Virmond,matched,189
+Cruzeiro do Sul,CRUZEIRO DO SUL,Cruzeiro do Sul,matched,187
+Flórida,FLORIDA,Flórida,matched,187
+Pitangueiras,PITANGUEIRAS,Pitangueiras,matched,187
+Santo Antônio do Paraíso,SANTO ANTONIO DO PARAISO,Santo Antônio do Paraíso,matched,187
+Entre Rios do Oeste,ENTRE RIOS DO OESTE,Entre Rios do Oeste,matched,181
+Paranapoema,PARANAPOEMA,Paranapoema,matched,181
+Barra do Jacaré,BARRA DO JACARE,Barra do Jacaré,matched,171
+Corumbataí do Sul,CORUMBATAI DO SUL,Corumbataí do Sul,matched,165
+Farol,FAROL,Farol,matched,165
+São José das Palmeiras,SAO JOSE DAS PALMEIRAS,São José das Palmeiras,matched,164
+Uniflor,UNIFLOR,Uniflor,matched,164
+Esperança Nova,ESPERANCA NOVA,Esperança Nova,matched,163
+Porto Vitória,PORTO VITORIA,Porto Vitória,matched,160
+Rancho Alegre D'Oeste,RANCHO ALEGRE D'OESTE,Rancho Alegre D'Oeste,matched,154
+Iguatu,IGUATU,Iguatu,matched,153
+Guaporema,GUAPOREMA,Guaporema,matched,141
+Ângulo,ANGULO,Ângulo,matched,140
+Mirador,MIRADOR,Mirador,matched,135
+Nova Aliança do Ivaí,NOVA ALIANCA DO IVAI,Nova Aliança do Ivaí,matched,125
+Jardim Olinda,JARDIM OLINDA,Jardim Olinda,matched,121
+Santa Inês,SANTA INES,Santa Inês,matched,116
+São Manoel do Paraná,SAO MANOEL DO PARANA,São Manoel do Paraná,matched,100
+****,****,,unmatched,222000
+Brasília,BRASILIA,,unmatched,5
